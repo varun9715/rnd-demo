@@ -1,16 +1,11 @@
 {
   "mappings": [
-    "/content/xwalk-commerce/:/",
-    "/content/xwalk-commerce/configuration:/.helix/config.json",
-    "/content/xwalk-commerce/headers:/.helix/headers.json",
-    "/content/xwalk-commerce/metadata:/metadata.json",
-    "/content/xwalk-commerce/placeholders:/placeholders.json",
-    "/content/xwalk-commerce/configs:/configs.json",
-    "/content/xwalk-commerce/configs-dev:/configs-dev.json",
-    "/content/xwalk-commerce/configs-stage:/configs-stage.json",
-    "/content/xwalk-commerce.resource/enrichment/enrichment.json:/enrichment/enrichment.json"
+    "/content/rnd-demo/:/",
+    "/content/rnd-demo/configuration:/.helix/config.json",
+    "/content/rnd-demo/metadata:/metadata.json",
+    "/content/rnd-demo/spreadsheet:/spreadsheet.json"
   ],
   "includes": [
-    "/content/xwalk-commerce/"
+    "/content/rnd-demo/"
   ]
 }
